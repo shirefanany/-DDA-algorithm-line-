@@ -1,4 +1,4 @@
-# zuma_game
+#DDA-algorithm-line-
 small game using  DDA algorithm by C# 
 Here is my code  implement DDA algorithm without using drawLine method in c#
 first you have to use mouse and draw rectangle 
